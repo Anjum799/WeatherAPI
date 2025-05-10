@@ -5,4 +5,4 @@ WeatherAPI is a service that provides real-time, forecast, and historical weathe
 1.Current Weather
    - Real-time temperature, humidity, wind, UV index, pressure, and more.
 2.Weather Forecast
-   - Hourly and daily forecasts up to 
+   - Hourly and daily forecasts up to 14 
