@@ -9,4 +9,4 @@ WeatherAPI is a service that provides real-time, forecast, and historical weathe
    - Hourly and daily forecasts up to 14 days.
      
 3.Historical Weather
-   - Weather data for past dates, useful for analytics
+   - Weather data for past dates, useful for analytics or 
