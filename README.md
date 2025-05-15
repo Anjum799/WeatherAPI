@@ -12,4 +12,4 @@ WeatherAPI is a service that provides real-time, forecast, and historical weathe
    - Weather data for past dates, useful for analytics or reports.
      
 4.Weather Alerts 
-   - Severe
+   - Severe weather
