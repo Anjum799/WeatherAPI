@@ -14,4 +14,4 @@ WeatherAPI is a service that provides real-time, forecast, and historical weathe
 4.Weather Alerts 
    - Severe weather alerts issued by government authorities.
 
-5.Air Quality Index
+5.Air Quality Index (AQI)
