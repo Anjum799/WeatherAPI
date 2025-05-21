@@ -17,4 +17,4 @@ WeatherAPI is a service that provides real-time, forecast, and historical weathe
 5.Air Quality Index (AQI)
    - Real-time air quality data including PM2.5, PM10, CO, NO2, O3, etc.
 
-6.
+6.Astronomy 
