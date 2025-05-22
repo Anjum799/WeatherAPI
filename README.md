@@ -18,4 +18,4 @@ WeatherAPI is a service that provides real-time, forecast, and historical weathe
    - Real-time air quality data including PM2.5, PM10, CO, NO2, O3, etc.
 
 6.Astronomy Info
-   - Sunrise, sunset, moonrise, moonset
+   - Sunrise, sunset, moonrise, moonset,
