@@ -19,4 +19,4 @@ WeatherAPI is a service that provides real-time, forecast, and historical weathe
 
 6.Astronomy Info
    - Sunrise, sunset, moonrise, moonset, and
-moon 
+moon phase
