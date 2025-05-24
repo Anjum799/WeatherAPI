@@ -21,4 +21,4 @@ WeatherAPI is a service that provides real-time, forecast, and historical weathe
    - Sunrise, sunset, moonrise, moonset, and
 moon phase data.
 
-7.Time
+7.Time Zone
