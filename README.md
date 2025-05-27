@@ -23,3 +23,5 @@ moon phase data.
 
 7.Time Zone Support
     - Provides accurate local time for locations.
+
+ 8   
