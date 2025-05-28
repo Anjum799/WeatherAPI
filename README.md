@@ -22,7 +22,7 @@ WeatherAPI is a service that provides real-time, forecast, and historical weathe
 moon phase data.
 
 7.Time Zone Support
-    - Provides accurate local time for locations.
+    -  Provides accurate local time for locations.
 
 8.Location Search
     - Supports searching
