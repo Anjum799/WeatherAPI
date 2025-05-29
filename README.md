@@ -25,4 +25,4 @@ moon phase data.
    -  Provides accurate local time for locations.
 
 8.Location Search
-    -  Supports searching
+    - Supports searching weather
