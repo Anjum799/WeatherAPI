@@ -27,4 +27,4 @@ moon phase data.
 8.Location Search
    -  Supports searching weather by city, ZIP code, IP address, or GPS coordinates.
      
-9.Bulk Request
+9.Bulk Request Multi
