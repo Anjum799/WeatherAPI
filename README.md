@@ -2,30 +2,37 @@
 WeatherAPI is a service that provides real-time, forecast, and historical weather data through an API. It offers details like temperature, humidity, wind speed, and weather alerts. Developers can use it to add weather features to apps and websites. An API key is required for access.
 
 ## Features
-1.Current Weather
-   - Real-time temperature, humidity, wind, UV index, pressure, and more.
-     
-2.Weather Forecast
-   - Hourly and daily forecasts up to 14 days.
-     
-3.Historical Weather
-   - Weather data for past dates, useful for analytics or reports.
-     
-4.Weather Alerts 
-   - Severe weather alerts issued by government authorities.
+1.🔍 City-Based Weather Search
+    - Users can enter any city name to get weather details.
 
-5.Air Quality Index (AQI)
-   - Real-time air quality data including PM2.5, PM10, CO, NO2, O3, etc.
+2.📍 Current Weather Display
 
-6.Astronomy Info
-   - Sunrise, sunset, moonrise, moonset, and
-moon phase data.
+   - Shows the current city name
 
-7.Time Zone Support
-   -  Provides accurate local time for locations.
+   - Weather condition (e.g., Partly cloudy)
 
-8.Location Search
-   -  Supports searching weather by city, ZIP code, IP address, or GPS coordinates.
-     
-9.Bulk Request Multi-Language Support
-   -  Get weather data for multiple locations at once;
+   - Temperature (e.g., +37°C)
+
+   - Wind speed (e.g., 19 km/h)
+
+3.📅 3-Day Weather Forecast
+
+   - Displays weather for the next 3 days
+
+   - For each day:
+
+   - Temperature
+
+   - Wind speed
+
+4.🌐 Clean & Responsive User Interface
+
+   - Glass-style transparent weather cards
+
+   - Visually appealing background image
+
+   - Organized layout with good readability
+
+5.📦 JSON Data Handling
+
+   - Weather data is fetched dynamically via JSON from WeatherAPI
