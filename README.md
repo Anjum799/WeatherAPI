@@ -28,4 +28,4 @@ moon phase data.
    -  Supports searching weather by city, ZIP code, IP address, or GPS coordinates.
      
 9.Bulk Request Multi-Language Support
-   -  Get weather data for
+   -  Get weather data for multiple
