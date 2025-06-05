@@ -37,4 +37,4 @@ WeatherAPI is a service that provides real-time, forecast, and historical weathe
 
    - Weather data is fetched dynamically via JSON from WeatherAPI
      
-🧰 
+🧰 Technologies
