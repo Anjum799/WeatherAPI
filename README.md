@@ -39,6 +39,7 @@ WeatherAPI is a service that provides real-time, forecast, and historical weathe
      
 🧰 Technologies Used in This Weather Project
 🌐 HTML
+
 Used
 
 
