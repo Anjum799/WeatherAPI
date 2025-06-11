@@ -45,6 +45,6 @@ Used to structure the web page(search box,weather cards, city name, etc.)
 
 🎨 CSS
 
-Used for
+Used for styling
 
 
