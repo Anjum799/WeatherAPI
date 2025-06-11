@@ -44,5 +44,6 @@ WeatherAPI is a service that provides real-time, forecast, and historical weathe
 Used to structure the web page(search box,weather cards, city name, etc.)
 
 🎨 CSS
+Used 
 
 
