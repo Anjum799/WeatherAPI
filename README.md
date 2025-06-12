@@ -46,6 +46,6 @@ Used to structure the web page(search box,weather cards, city name, etc.)
 🎨 CSS
 
 Used for styling the layout
-Includes glassmorphism effect,background image, spacing, and font styles
+Includes glassmorphism effect,background image, spacing, and font styles.
 
 
