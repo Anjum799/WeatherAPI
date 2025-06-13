@@ -50,6 +50,6 @@ Includes glassmorphism effect,background image, spacing, and font styles.
 
 🧠 JavaScript
 
-Used to fetch weather 
+Used to fetch weather data 
 
 
