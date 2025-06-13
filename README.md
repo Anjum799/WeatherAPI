@@ -50,6 +50,6 @@ Includes glassmorphism effect,background image, spacing, and font styles.
 
 🧠 JavaScript
 
-Used
+Used to
 
 
