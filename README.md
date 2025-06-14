@@ -52,4 +52,6 @@ Includes glassmorphism effect,background image, spacing, and font styles.
 
 Used to fetch weather data from the WeatherAPI
 
+Handles
+
 
