@@ -54,4 +54,4 @@ Used to fetch weather data from the WeatherAPI
 
 Handles user input(city search)and updates the
 
-weather
+weather data
