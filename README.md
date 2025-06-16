@@ -55,3 +55,5 @@ Handles user input(city search)and updates the
 weather data on the page
 
 📡 WeatherAPI
+
+External
