@@ -57,4 +57,4 @@ weather data on the page
 📡 WeatherAPI
 
 External API used to get real-time weather and
-3-day forecast data
+3-day forecast data.
