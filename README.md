@@ -56,4 +56,4 @@ weather data on the page
 
 📡 WeatherAPI
 
-External API used
+External API used to 
