@@ -59,4 +59,4 @@ weather data on the page.
 External API used to get real-time weather and
 3-day forecast data.
 
-📦 
+📦 JSON
