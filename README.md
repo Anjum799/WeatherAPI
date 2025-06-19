@@ -61,4 +61,5 @@ External API used to get real-time weather and
 
 📦 JSON
 
-Format used to receive and parse weather 
+Format used to receive and parse weather data 
+
