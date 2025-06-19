@@ -61,4 +61,4 @@ External API used to get real-time weather and
 
 📦 JSON
 
-Format
+Format used 
