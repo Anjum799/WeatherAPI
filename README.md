@@ -39,7 +39,7 @@ WeatherAPI isWeatherAPI is a service that provides real-time, forecast, and hist
      
 🧰 Technologies Used in This Weather Project
 
-🌐 HTM
+🌐 HT
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 Used to structure the web page (search box,weather cards, city name, etc.)
