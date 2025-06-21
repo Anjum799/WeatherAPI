@@ -44,7 +44,7 @@ WeatherAPI isWeatherAPI is a service that provides real-time, forecast, and hist
 
 Used to structure the web page (search box,weather cards, city name, etc.)
 
-🎨 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 Used for styling the layout
 Includes glassmorphism effect,background image, spacing, and font styles.
