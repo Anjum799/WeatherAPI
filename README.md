@@ -1,5 +1,5 @@
 # WeatherAPI
-WeatherAPI is a service that provides real-time, forecast, and historical weather data through an API. It offers details like temperature, humidity, wind speed, and weather alerts. Developers can use it to add weather features to apps and websites. An API key is required for access.
+WeatherAPI isWeatherAPI is a service that provides real-time, forecast, and historical weather data through an API. It offers details like temperature, humidity, wind speed, and weather alerts. Developers can use it to add weather features to apps and websites. An API key is required for access.
 
 ## Features
 1.🔍 City-Based Weather Search
@@ -40,6 +40,7 @@ WeatherAPI is a service that provides real-time, forecast, and historical weathe
 🧰 Technologies Used in This Weather Project
 
 🌐 HTML
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 Used to structure the web page (search box,weather cards, city name, etc.)
 
