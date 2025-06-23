@@ -72,3 +72,5 @@ from WeatherAPI.
 - python > 3.08
 
 # UI VIEWS
+
+## Home Page
