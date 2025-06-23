@@ -60,7 +60,7 @@ weather data on the page.
 External API used to get real-time weather and
 3-day forecast data.
 
-📦 JSON
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 Format used to receive and parse weather data 
 from WeatherAPI.
