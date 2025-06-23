@@ -55,7 +55,7 @@ Used to fetch weather data from the WeatherAPI
 Handles user input (city search) and updates the
 weather data on the page.
 
-📡 WeatherAPI
+![WeatherAPI](https://img.shields.io/badge/WeatherAPI-1E90FF?style=for-the-badge&logo=cloud&logoColor=white)
 
 External API used to get real-time weather and
 3-day forecast data.
