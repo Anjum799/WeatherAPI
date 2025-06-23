@@ -74,3 +74,4 @@ from WeatherAPI.
 # UI VIEWS
 
 ## Home Page
+![Image](https://github.com/user-attachments/assets/11807298-e0af-4dd0-b21c-08b1c28ca232)
