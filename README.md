@@ -64,3 +64,9 @@ External API used to get real-time weather and
 
 Format used to receive and parse weather data 
 from WeatherAPI.
+
+## Requirements
+- 4 GB ram
+- 256 ROM
+- django == 5.1.5
+- python > 3.08
