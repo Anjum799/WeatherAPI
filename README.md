@@ -70,3 +70,5 @@ from WeatherAPI.
 - 256 ROM
 - django == 5.1.5
 - python > 3.08
+
+# UI VIEWS
