@@ -49,7 +49,7 @@ Used to structure the web page (search box,weather cards, city name, etc.)
 Used for styling the layout
 Includes glassmorphism effect,background image, spacing, and font styles.
 
-🧠 JavaScript
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 Used to fetch weather data from the WeatherAPI
 Handles user input (city search) and updates the
