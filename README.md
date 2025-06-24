@@ -75,3 +75,7 @@ from WeatherAPI.
 
 ## Home Page
 ![Image](https://github.com/user-attachments/assets/11807298-e0af-4dd0-b21c-08b1c28ca232)
+
+
+![Image](https://github.com/user-attachments/assets/560032cd-f6c2-4871-b338-4a430212e850)
+
