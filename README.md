@@ -80,4 +80,4 @@ from WeatherAPI.
 ![Image](https://github.com/user-attachments/assets/560032cd-f6c2-4871-b338-4a430212e850)
 
 ## steps to set up this project
-- clone this project https://github.com/Anjum799/WeatherAPI.git
+- clone this project using https://github.com/Anjum799/WeatherAPI.git
