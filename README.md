@@ -82,5 +82,6 @@ from WeatherAPI.
 ## steps to set up this project
 - clone this project using https://github.com/Anjum799/WeatherAPI.git
 - install the necessary packages
+  
   pip install - r requirements.txt
   
