@@ -85,5 +85,5 @@ from WeatherAPI.
   
   pip install - r requirements.txt
 - change the dir to the project
-- 
+  
   python 
