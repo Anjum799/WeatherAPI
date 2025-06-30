@@ -86,5 +86,6 @@ from WeatherAPI.
   pip install - r requirements.txt
 - change the dir to the project
   
-  python manage.py runserver 
+  python manage.py runserver
+  
   Thank Y
