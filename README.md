@@ -87,4 +87,4 @@ from WeatherAPI.
 - change the dir to the project
   
   python manage.py runserver 
-  T
+  Tha
