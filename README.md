@@ -37,7 +37,7 @@ WeatherAPI isWeatherAPI is a service that provides real-time, forecast, and hist
 
    - Weather data is fetched dynamically via JSON from WeatherAPI
      
-🧰 Technologies Used in This Weather Project
+## 🧰 Technologies Used in This Weather Project
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
