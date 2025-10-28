@@ -88,4 +88,4 @@ from WeatherAPI.
   
   python manage.py runserver
   
-  Thank yo
+  Thank you
