@@ -71,7 +71,7 @@ from WeatherAPI.
 - django == 5.1.5
 - python > 3.08
 
-# UI  VIEWD
+# UI  VIEW
 
 ## Home Page
 ![Image](https://github.com/user-attachments/assets/11807298-e0af-4dd0-b21c-08b1c28ca232)
